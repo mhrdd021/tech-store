@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: yekanbakhmedium;
+    src: url(./assets/font/YekanBakhMedium.woff) format("woff");
+}
+body{
+    font-family: yekanbakhmedium;
+    direction: rtl;
+    overflow-x: hidden;
+    background: ;
+}
